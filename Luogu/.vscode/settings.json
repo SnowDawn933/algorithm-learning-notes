@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "istream": "cpp",
+        "xstring": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "string": "cpp",
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "limits": "cpp"
+    }
+}

@@ -1,0 +1,1 @@
+isprime[i * prime[j]] = true;
